@@ -1,0 +1,9 @@
+Site		handle		password
+codeforces	goel_29
+a2oj		siddharth_goel
+spoj		siddharthgoel
+codechef	goel_29
+git		siddharthgoel29
+projecteuler	siddharthgoel29
+hackerearth	goel_29
+hackerrank	siddharthgoel
